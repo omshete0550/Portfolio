@@ -47,6 +47,9 @@ a:hover {
 .navbar-brand .uil {
   font-size: 40px;
 }
+.navbar-brand img{
+  width: 5em;
+}
 
 p {
   font-size: 18px;
